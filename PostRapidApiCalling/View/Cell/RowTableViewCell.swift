@@ -8,7 +8,11 @@
 import UIKit
 
 class RowTableViewCell: UITableViewCell {
-
+    
+    @IBOutlet weak var quoteLbl: UILabel!
+    @IBOutlet weak var authorLbl: UILabel!
+    @IBOutlet weak var categoryLbl: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

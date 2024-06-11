@@ -1,0 +1,6 @@
+framework module Pods_PostRapidApiCalling_PostRapidApiCallingUITests {
+  umbrella header "Pods-PostRapidApiCalling-PostRapidApiCallingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

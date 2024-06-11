@@ -1,0 +1,6 @@
+framework module Pods_PostRapidApiCalling {
+  umbrella header "Pods-PostRapidApiCalling-umbrella.h"
+
+  export *
+  module * { export * }
+}
